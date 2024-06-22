@@ -21,7 +21,9 @@ Menampilkan Informasi Detail Informasi Film Berdasarkan paramater :
 GET
 http://localhost:8000/api/movie/search?query=tom%20cruise
 
-NB : Sepertinya ada perubahan paramater dari IMDB untuk popular movie.
+NB : 
+- Modul laravel berada di branch Master.
+- Sepertinya ada perubahan paramater dari IMDB untuk popular movie.
 
 
 
